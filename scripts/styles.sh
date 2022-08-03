@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # Color files
-PFILE="$HOME/.config/polybar/blocks/colors.ini"
-RFILE="$HOME/.config/polybar/blocks/scripts/rofi/colors.rasi"
+PFILE="$HOME/.config/polybar/resa-blocks/colors.ini"
+RFILE="$HOME/.config/polybar/resa-blocks/scripts/rofi/colors.rasi"
 
 # Change colors
 change_color() {
